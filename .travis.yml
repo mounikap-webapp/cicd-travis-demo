@@ -38,6 +38,6 @@ script:
 # Send the message of success after the docker image is pushed to dockerhub
 notifications:
   email:
-    - interviewdot@gmail.com
+    - mounik.rdg@gmail.com
 
 
